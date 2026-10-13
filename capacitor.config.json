@@ -1,0 +1,6 @@
+{
+  "appId": "com.mahmoud.imagesqueeze",
+  "appName": "Elsayad Lite",
+  "webDir": "www",
+  "plugins": { "Media": { "androidGalleryMode": false } }
+}
